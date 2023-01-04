@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashas
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...java projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ...web development
+- 💞️ I’m looking to collaborate on ...web development projects
 - 📫 How to reach me yashasv901@gmail.com
 
 <!---
